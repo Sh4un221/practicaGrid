@@ -3,5 +3,7 @@
 :root {
     --color-primary: #f3f3f5;
     --color-secundary: #fff;
+    --color-ternary:#c35513;
+    --color-font1:#87878b;
     --color-transparencia: rgba(0, 0, 0, 0.287)
 }
