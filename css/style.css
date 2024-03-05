@@ -92,6 +92,7 @@ body div {
     grid-area: img6;
     display: flex;
 }
+
 .item__6 img {
     width: 100%;
     height: auto;
@@ -102,6 +103,7 @@ body div {
     grid-area: img7;
     display: flex;
 }
+
 .item__7 img {
     width: 100%;
     height: auto;
@@ -113,39 +115,101 @@ body div {
     display: flex;
 }
 
+.item__8 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
 .item__9 {
     grid-area: img9;
     display: flex;
 }
 
+.item__9 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
 .item__10 {
     grid-area: img10;
+    display: flex;
+}
+
+.item__10 img {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
 }
 
 .item__11 {
     grid-area: img11;
+    display: flex;
+}
+
+.item__11 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }
 
 .item__12 {
     grid-area: img12;
+    display: flex;
+}
+
+.item__12 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }
 
 .item__13 {
     grid-area: img13;
+    display: flex;
+}
+
+.item__13 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }
 
 .item__14 {
     grid-area: img14;
+    display: flex;
+}
+.item__14 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }
 
 .item__15 {
     grid-area: img15;
+    display: flex;
+}
+.item__15 img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }
 
 .item__16 {
     grid-area: img16;
+    display: flex;
 }
-
+.item__16 img {
+    width: 100%;
+    height: auto;
+}
 .item__17 {
     grid-area: img17;
+    display: flex;
+}
+.item__17 img {
+    width: 100%;
+    height: auto;
+    object-fit: auto;
 }
